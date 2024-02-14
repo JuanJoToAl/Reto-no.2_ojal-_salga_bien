@@ -1,4 +1,4 @@
-# Reto_no.2/ Ojalá_salga_bien
+# Reto_no.2/ Ojalá_salga_bien_:v
 _El siguiente repositorio muestra la ejecución del código "Hola mundo" en el terminal de Windows, Visual Studio Code y en el interprete de Python._
 
 ## Table of Contents
