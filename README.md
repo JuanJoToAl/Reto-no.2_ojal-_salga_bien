@@ -5,7 +5,8 @@ _El siguiente repositorio muestra la ejecución del código "Hola mundo" en el t
 1. [Interprete de Python](#interprete-de-python)
 2. [Visual Studio Code](#visual-studio-code)
 3. [Terminal de Windows](#terminal-de-windows)
-
+4. [Git Bash](#git-bash)
+   
  ### Interprete de Python
 [![Interprete de Python](https://i.postimg.cc/W4LmV8gf/Captura-de-pantalla-2024-02-09-155627-1.png)](https://postimg.cc/pmC5YD0D)
 
@@ -14,6 +15,9 @@ _El siguiente repositorio muestra la ejecución del código "Hola mundo" en el t
 
  ### Terminal de Windows
 [![Interprete de Windows](https://i.postimg.cc/6QrrpZh6/Captura-de-pantalla-2024-02-12-112810.png)](https://postimg.cc/5HtYP6GD)
+
+ ### Git Bash
+[![Git Bash](https://i.postimg.cc/BvVNfFj5/Captura-de-pantalla-2024-02-12-120023.png)](https://postimg.cc/VSXXjdB5)
 
 
 
