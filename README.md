@@ -2,7 +2,8 @@
 _El siguiente repositorio muestra la ejecución del código "Hola Mundo" en el terminal de Windows, Visual Studio Code y en el interprete de Python.:_
 
 ## **Código:**
-```if __name__ == "__main__" :
+```
+if __name__ == "__main__" :
   print("Hola mundo")
 ```
 
