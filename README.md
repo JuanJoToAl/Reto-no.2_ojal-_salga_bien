@@ -1,5 +1,10 @@
 # Reto no.2 / Ojalá salga bien :v
-_El siguiente repositorio muestra la ejecución del código "Hola mundo" en el terminal de Windows, Visual Studio Code y en el interprete de Python._
+_El siguiente repositorio muestra la ejecución del código "Hola Mundo" en el terminal de Windows, Visual Studio Code y en el interprete de Python.:_
+
+## **Código:**
+```if __name__ == "__main__" :
+  print("Hola mundo")
+```
 
 ## Table of Contents
 1. [Interprete de Python](#interprete-de-python)
