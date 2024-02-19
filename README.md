@@ -7,7 +7,7 @@ if __name__ == "__main__" :
   print("Hola mundo")
 ```
 
-## Table of Contents
+## Tabla de contenido
 1. [Interprete de Python](#interprete-de-python)
 2. [Visual Studio Code](#visual-studio-code)
 3. [Terminal de Windows](#terminal-de-windows)
